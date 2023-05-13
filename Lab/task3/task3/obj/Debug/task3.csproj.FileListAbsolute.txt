@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\task3\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\task3\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\task3\task3\bin\Debug\task3.exe.config
+C:\Users\user\source\repos\task3\task3\bin\Debug\task3.exe.manifest
+C:\Users\user\source\repos\task3\task3\bin\Debug\task3.application
+C:\Users\user\source\repos\task3\task3\bin\Debug\task3.exe
+C:\Users\user\source\repos\task3\task3\bin\Debug\task3.pdb
+C:\Users\user\source\repos\task3\task3\obj\Debug\task3.exe.manifest
+C:\Users\user\source\repos\task3\task3\obj\Debug\task3.application
+C:\Users\user\source\repos\task3\task3\obj\Debug\task3.exe
+C:\Users\user\source\repos\task3\task3\obj\Debug\task3.pdb

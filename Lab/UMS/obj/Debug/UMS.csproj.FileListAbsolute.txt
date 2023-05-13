@@ -1,0 +1,7 @@
+C:\OOP Week 5\Lab\UMS\bin\Debug\UMS.exe.config
+C:\OOP Week 5\Lab\UMS\bin\Debug\UMS.exe
+C:\OOP Week 5\Lab\UMS\bin\Debug\UMS.pdb
+C:\OOP Week 5\Lab\UMS\obj\Debug\UMS.csproj.AssemblyReference.cache
+C:\OOP Week 5\Lab\UMS\obj\Debug\UMS.csproj.CoreCompileInputs.cache
+C:\OOP Week 5\Lab\UMS\obj\Debug\UMS.exe
+C:\OOP Week 5\Lab\UMS\obj\Debug\UMS.pdb
